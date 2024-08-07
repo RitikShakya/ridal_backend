@@ -1,0 +1,14 @@
+{
+  "name": "ridal_backend",
+  "version": "1.0.0",
+  "description": "ridal backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ridal"
+  ],
+  "author": "",
+  "license": "ISC"
+}
